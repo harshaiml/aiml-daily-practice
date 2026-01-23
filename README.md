@@ -8,10 +8,3 @@ This repository contains my daily Machine Learning practice.
 - datasets : Practice datasets
 
 I am building my AI/ML skills consistently.
-
-## Goals
-
-- Strengthen ML fundamentals
-- Implement algorithms from scratch
-- Build real-world ML projects
-- Stay consistent with daily contributions
