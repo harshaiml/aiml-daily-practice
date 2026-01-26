@@ -15,3 +15,8 @@ I am building my AI/ML skills consistently.
 - Implement algorithms from scratch
 - Build real-world ML projects
 - Stay consistent with daily contributions
+
+## Objective
+Understand how Linear Regression works using:
+- Hypothesis function
+- Cost function (MSE)
