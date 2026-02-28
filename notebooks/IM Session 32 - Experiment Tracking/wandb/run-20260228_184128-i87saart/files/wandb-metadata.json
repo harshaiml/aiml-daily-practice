@@ -1,0 +1,17 @@
+{
+  "os":  "Windows-11-10.0.26200-SP0",
+  "python":  "CPython 3.14.3",
+  "startedAt":  "2026-02-28T13:11:28.566051Z",
+  "program":  "c:\\Users\\HARSH\\OneDrive\\Desktop\\aiml-daily-practice\\notebooks\\IM Session 32 - Experiment Tracking\\Session_17_3_Practical.ipynb",
+  "codePath":  "c:\\Users\\HARSH\\OneDrive\\Desktop\\aiml-daily-practice\\notebooks\\IM Session 32 - Experiment Tracking\\Session_17_3_Practical.ipynb",
+  "codePathLocal":  "Session_17_3_Practical.ipynb",
+  "git":  {
+    "remote":  "https://github.com/harshaiml/aiml-daily-practice.git",
+    "commit":  "cb166bb479e1b240752cea59b01d14129dfdc3e8"
+  },
+  "email":  "harshvardhanaiml@gmail.com",
+  "root":  "c:\\Users\\HARSH\\OneDrive\\Desktop\\aiml-daily-practice\\notebooks\\IM Session 32 - Experiment Tracking",
+  "host":  "LAPTOP-V5N836UV",
+  "executable":  "c:\\Users\\HARSH\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+  "writerId":  "lg9znqhdp2nrv2hte8zpqmdjt5ozax1c"
+}

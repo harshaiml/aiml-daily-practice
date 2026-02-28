@@ -1,0 +1,22 @@
+2026-02-28 18:41:28,580 INFO    MainThread:2860 [wandb_init.py:setup_run_log_directory():717] Logging user logs to c:\Users\HARSH\OneDrive\Desktop\aiml-daily-practice\notebooks\IM Session 32 - Experiment Tracking\wandb\run-20260228_184128-i87saart\logs\debug.log
+2026-02-28 18:41:28,581 INFO    MainThread:2860 [wandb_init.py:setup_run_log_directory():718] Logging internal logs to c:\Users\HARSH\OneDrive\Desktop\aiml-daily-practice\notebooks\IM Session 32 - Experiment Tracking\wandb\run-20260228_184128-i87saart\logs\debug-internal.log
+2026-02-28 18:41:28,581 INFO    MainThread:2860 [wandb_init.py:init():844] calling init triggers
+2026-02-28 18:41:28,581 INFO    MainThread:2860 [wandb_init.py:init():849] wandb.init called with sweep_config: {}
+config: {'model': 'Ridge', 'alpha': 1.0, 'cv_folds': 5, 'scaler': 'StandardScaler', 'dataset_size': 200, '_wandb': {}}
+2026-02-28 18:41:28,581 INFO    MainThread:2860 [wandb_init.py:init():892] starting backend
+2026-02-28 18:41:28,581 INFO    MainThread:2860 [wandb_init.py:init():895] sending inform_init request
+2026-02-28 18:41:28,584 INFO    MainThread:2860 [wandb_init.py:init():903] backend started and connected
+2026-02-28 18:41:28,586 INFO    MainThread:2860 [wandb_run.py:_label_probe_notebook():1333] probe notebook
+2026-02-28 18:41:28,586 INFO    MainThread:2860 [wandb_init.py:init():973] updated telemetry
+2026-02-28 18:41:28,645 INFO    MainThread:2860 [wandb_init.py:init():997] communicating run to backend with 90.0 second timeout
+2026-02-28 18:41:29,877 INFO    MainThread:2860 [wandb_init.py:init():1042] starting run threads in backend
+2026-02-28 18:41:30,140 INFO    MainThread:2860 [wandb_run.py:_console_start():2524] atexit reg
+2026-02-28 18:41:30,140 INFO    MainThread:2860 [wandb_run.py:_redirect():2373] redirect: wrap_raw
+2026-02-28 18:41:30,141 INFO    MainThread:2860 [wandb_run.py:_redirect():2442] Wrapping output streams.
+2026-02-28 18:41:30,141 INFO    MainThread:2860 [wandb_run.py:_redirect():2465] Redirects installed.
+2026-02-28 18:41:30,142 INFO    MainThread:2860 [wandb_init.py:init():1082] run started, returning control to user process
+2026-02-28 18:41:30,179 INFO    MainThread:2860 [wandb_run.py:_finish():2291] finishing run harshvardhanaiml-institution/session-17-3-experiment-tracking/i87saart
+2026-02-28 18:41:30,179 INFO    MainThread:2860 [wandb_run.py:_atexit_cleanup():2490] got exitcode: 0
+2026-02-28 18:41:30,180 INFO    MainThread:2860 [wandb_run.py:_restore():2472] restore
+2026-02-28 18:41:30,180 INFO    MainThread:2860 [wandb_run.py:_restore():2478] restore done
+2026-02-28 18:41:32,811 INFO    MainThread:2860 [wandb_run.py:_footer_sync_info():3868] logging synced files

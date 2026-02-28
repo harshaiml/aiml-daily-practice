@@ -1,0 +1,8 @@
+{"time":"2026-02-28T17:59:14.1441174+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-28T17:59:14.8227996+05:30","level":"INFO","msg":"stream: created new stream","id":"c7wgf03a"}
+{"time":"2026-02-28T17:59:14.8227996+05:30","level":"INFO","msg":"handler: started","stream_id":"c7wgf03a"}
+{"time":"2026-02-28T17:59:14.8251315+05:30","level":"INFO","msg":"stream: started","id":"c7wgf03a"}
+{"time":"2026-02-28T17:59:14.8251315+05:30","level":"INFO","msg":"writer: started","stream_id":"c7wgf03a"}
+{"time":"2026-02-28T17:59:14.8256619+05:30","level":"INFO","msg":"sender: started","stream_id":"c7wgf03a"}
+{"time":"2026-02-28T17:59:15.3294123+05:30","level":"ERROR","msg":"api: HTTP error","status":401,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2026-02-28T17:59:15.3299707+05:30","level":"ERROR","msg":"runupserter: failed to init run","error":"returned error 401: {\"data\":{\"upsertBucket\":null},\"errors\":[{\"message\":\"user is not logged in\",\"path\":[\"upsertBucket\"],\"extensions\":{\"code\":\"PERMISSION_ERROR\"}}]}"}

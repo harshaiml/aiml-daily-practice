@@ -1,0 +1,11 @@
+2026-02-28 18:03:05,242 INFO    MainThread:2860 [wandb_init.py:setup_run_log_directory():717] Logging user logs to c:\Users\HARSH\OneDrive\Desktop\aiml-daily-practice\notebooks\IM Session 32 - Experiment Tracking\wandb\run-20260228_180305-o4dprovw\logs\debug.log
+2026-02-28 18:03:05,242 INFO    MainThread:2860 [wandb_init.py:setup_run_log_directory():718] Logging internal logs to c:\Users\HARSH\OneDrive\Desktop\aiml-daily-practice\notebooks\IM Session 32 - Experiment Tracking\wandb\run-20260228_180305-o4dprovw\logs\debug-internal.log
+2026-02-28 18:03:05,242 INFO    MainThread:2860 [wandb_init.py:init():844] calling init triggers
+2026-02-28 18:03:05,243 INFO    MainThread:2860 [wandb_init.py:init():849] wandb.init called with sweep_config: {}
+config: {'model': 'Ridge', 'alpha': 1.0, 'cv_folds': 5, 'scaler': 'StandardScaler', 'dataset_size': 200, '_wandb': {}}
+2026-02-28 18:03:05,250 INFO    MainThread:2860 [wandb_init.py:init():892] starting backend
+2026-02-28 18:03:05,251 INFO    MainThread:2860 [wandb_init.py:init():895] sending inform_init request
+2026-02-28 18:03:05,254 INFO    MainThread:2860 [wandb_init.py:init():903] backend started and connected
+2026-02-28 18:03:05,256 INFO    MainThread:2860 [wandb_run.py:_label_probe_notebook():1333] probe notebook
+2026-02-28 18:03:05,256 INFO    MainThread:2860 [wandb_init.py:init():973] updated telemetry
+2026-02-28 18:03:05,306 INFO    MainThread:2860 [wandb_init.py:init():997] communicating run to backend with 90.0 second timeout
